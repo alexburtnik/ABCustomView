@@ -24,8 +24,8 @@ Manual setup and update for UIViews
   s.homepage         = 'https://github.com/alexburtnik/ABCustomView'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'sv' => 'alexander.b@smartum.pro' }
-  s.source           = { :git => 'https://github.com/sv/ABCustomView.git', :tag => s.version.to_s }
+  s.author           = { 'alexburtnik' => 'alexander.b@smartum.pro' }
+  s.source           = { :git => 'https://github.com/alexburtnik/ABCustomView.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
