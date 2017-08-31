@@ -12,7 +12,7 @@ import UIKit
 open class XibButton: UIButton {
     @IBOutlet var view: UIView!
     
-    override init(frame: CGRect) {
+    override public init(frame: CGRect) {
         super.init(frame: frame)
         setup()
     }
