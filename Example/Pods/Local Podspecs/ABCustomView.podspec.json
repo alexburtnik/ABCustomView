@@ -1,0 +1,22 @@
+{
+  "name": "ABCustomView",
+  "version": "0.1.1",
+  "summary": "Handy UIView subclasses",
+  "description": "Manual setup and update for UIViews",
+  "homepage": "https://github.com/alexburtnik/ABCustomView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "sv": "alexander.b@smartum.pro"
+  },
+  "source": {
+    "git": "https://github.com/sv/ABCustomView.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ABCustomView/Classes/**/*"
+}

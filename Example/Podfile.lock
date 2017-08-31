@@ -1,0 +1,16 @@
+PODS:
+  - ABCustomView (0.1.1)
+
+DEPENDENCIES:
+  - ABCustomView (from `../`)
+
+EXTERNAL SOURCES:
+  ABCustomView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  ABCustomView: 4fa89e34dd527ea0cb74ccadf44eb4eb7e4c9428
+
+PODFILE CHECKSUM: d128c54db8de91d3ad180bbb8099651833a50470
+
+COCOAPODS: 1.3.1

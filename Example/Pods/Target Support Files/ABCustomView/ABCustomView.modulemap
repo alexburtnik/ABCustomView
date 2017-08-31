@@ -1,0 +1,6 @@
+framework module ABCustomView {
+  umbrella header "ABCustomView-umbrella.h"
+
+  export *
+  module * { export * }
+}
